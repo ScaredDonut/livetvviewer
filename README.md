@@ -1,4 +1,4 @@
-## Live TV Channel "Stream"
+## Live TV Channel Viewer
 
 This simple script displays live TV channels from around the world. (Streamed by other people). All it does is pulls the info from streamlive.tv via their XML.
 
