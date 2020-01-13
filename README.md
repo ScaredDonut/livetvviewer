@@ -13,3 +13,7 @@ There are no real beneifits to using this, I made this simple script back in 201
 ## License
 
 Attribution 4.0 International 
+
+# Version 2.0
+
+You can get VR 2 on gitlab: https://gitlab.com/ScaredDonut/live-tv-viewer
