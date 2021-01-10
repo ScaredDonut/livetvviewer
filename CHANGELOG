@@ -1,0 +1,34 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), (kinda based on this? Too lazy to do a lot of work for a change log that no one will ever read...)
+and this project adheres to [Live TV Viewer](https://gitlab.com/ScaredDonut/live-tv-viewer).
+
+## [2.3] - 2020 - 01 - 14
+###Added
+- Reorganized the code a bit
+- Added a system that wont let you go below page 1 by using the back button. [Still working on a fix that wont let you go past max page]
+
+## [2.2] - 2020 - 01 - 14
+### Added
+- Pagination will now highlight on the current page that you're on
+- Work started on fixing the bug where it lets you go past max pages and below page 1.
+
+## [2.1] - 2020 - 01 - 13
+### Added
+- Pagination
+- maxPerPage in config is now functional
+
+## [2.0] - 2020 - 01 - 13
+### Added
+- New template thanks to [BlackrockDigital](https://github.com/BlackrockDigital/) - For their [template](https://github.com/BlackrockDigital/startbootstrap-heroic-features) saved me a lot of time!
+- Reorganized the format of the file
+- Add comments for some stuff...
+- added a simple config file so some data can be changed.
+### Fixed
+- Stuff will actually show up in colums rather than one long ass row
+
+
+## [1.0] - 2017 - 02 - 09
+### Added
+- Loading XML data from SteamLive and displaying it in a simple index.php file
